@@ -9,7 +9,7 @@ Simple, Fast discord webhook spammer
 
 2: Put your message and webhook into `config.json`
 
-3: Run `WebhookSpammer.py 
+3: Run `WebhookSpammer.py`
 
 4: Boom! The webhook will be spammed!
 
