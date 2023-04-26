@@ -1,7 +1,7 @@
 # DiscordWebhookSpammer
 Simple, Fast discord webhook spammer
 
-**REPLIT: https://replit.com/@RAIN2504/PythonProxyChecker**
+**REPLIT: https://replit.com/@RAIN2504/DiscordWebhookSpammer**
 
 
 ## How to use?
