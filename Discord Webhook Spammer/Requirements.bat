@@ -1,4 +1,4 @@
 @echo off
-pip install requests
-pip install colorama
-pip install PySocks
+echo Installing dependancies
+pip install requests colorama PySocks
+echo Done! Run configGen.py to generate your config.
